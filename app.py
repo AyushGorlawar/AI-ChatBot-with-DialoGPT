@@ -5,7 +5,7 @@ import torch
 
 title = "AI ChatBot"
 description = "A State-of-the-Art Large-scale Pretrained Response generation model (DialoGPT)"
-examples = [["How are you?"]]
+examples = [["How are you? buddy"]]
 article = """
 ### Authors and Credits
 - **Model**: Based on Microsoft's [DialoGPT-large](https://huggingface.co/microsoft/DialoGPT-large).
