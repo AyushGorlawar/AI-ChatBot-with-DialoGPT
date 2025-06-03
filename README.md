@@ -102,11 +102,7 @@ Once the chatbot is running, you can interact with it via the Gradio interface:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute as needed.
-
----
+ 
 
 ## Acknowledgments
 
@@ -114,10 +110,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 - **Gradio**: For the intuitive interface framework.
 
 ---
-
-## Contact
-
-For inquiries or support, please reach out:
-
-- **Name**: Ayush Gorlawar 
-- **Email**: ayushgorlawar91@gmail.com
+ 
